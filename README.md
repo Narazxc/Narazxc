@@ -15,13 +15,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg" style="padding-right:10px;" /> -->
-
-<!-- <img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" style="padding-right:10px;"/> -->
-
-<img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px; filter: invert(1); background: transparent;"/>
-          
-<!-- <img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg" style="padding-right:10px; " /> -->
+<img align="left" alt="Expressjs" width="26px" src="./img/express-icon-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Expressjs" width="26px" src="./img/express-icon-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
 
 <img align="left" alt="Laravel" width="26px" src="./img/laravel-2.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
