@@ -17,9 +17,9 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg" style="padding-right:10px;" /> -->
 
-<img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-light-mode-only" style="padding-right:10px;"/>
+<img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" style="padding-right:10px;"/>
 
-<img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-dark-mode-only" style="padding-right:10px; filter: invert(100%);"/>
+<img align="left" alt="Expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" style="padding-right:10px; -webkit-filter: invert(100%); filter: invert(100%);background: transparent;"/>
           
 <!-- <img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg" style="padding-right:10px; " /> -->
 
