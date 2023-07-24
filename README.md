@@ -6,8 +6,8 @@
 
 <!-- Align center -->
 <a href="#">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=Narazxc&theme=panda" />
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=Narazxc&theme=panda&card_width=200" />
 </a>
 <a href="#">
-  <img height=400 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narazxc&theme=panda&langs_count=6&card_width=250" />
+  <img height=350 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narazxc&theme=panda&langs_count=6&card_width=250" />
 </a>
