@@ -15,6 +15,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Expressjs" width="26px" src="./img/express-109.svg#gh-light-mode-only" style="padding-right:10px; -webkit-filter: invert(100%); filter: invert(100%);" />
+
 <img align="left" alt="Laravel" width="26px" src="./img/laravel-2.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
